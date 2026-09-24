@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/early_toad_1853), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-24 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-24 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-22 |
 
